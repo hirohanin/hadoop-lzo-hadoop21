@@ -1,0 +1,5 @@
+com.hadoop.compression.lzo
+com.hadoop.mapred
+com.hadoop.mapreduce
+com.quicklz
+org.apache.hadoop.io.compress
